@@ -19,8 +19,7 @@
 |------|------|
 | Stick Diagram | ![](https://github.com/Dniellu/2-bit-Full-Adder-Layout-Design/blob/main/klayout-2bit-full-adder/img/Stick%20Diagram.png) |
 | Layout (2-bit Full Adder) | ![](https://github.com/Dniellu/2-bit-Full-Adder-Layout-Design/blob/main/klayout-2bit-full-adder/img/Layout%20(2-bit%20Full%20Adder).png) |
-| DRC 通過畫面 | ![](https://github.com/Dniellu/2-bit-Full-Adder-Layout-Design/blob/main/klayout-2bit-full-adder/img/Stick%20Diagram.png) |
- ![](https://github.com/Dniellu/2-bit-Full-Adder-Layout-Design/blob/main/klayout-2bit-full-adder/img/DRC%20%E9%80%9A%E9%81%8E%E7%95%AB%E9%9D%A2-2.png) |
+| DRC 通過畫面 | ![](https://github.com/Dniellu/2-bit-Full-Adder-Layout-Design/blob/main/klayout-2bit-full-adder/img/DRC%20%E9%80%9A%E9%81%8E%E7%95%AB%E9%9D%A2-1.png) |
 
 ## 作者
 第七組  
