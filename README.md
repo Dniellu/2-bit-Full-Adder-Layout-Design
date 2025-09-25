@@ -12,7 +12,7 @@
 - **Layout Size**：47.622 µm × 10.081 µm = 480.08 µm²
 
 ## 專案文件
-完整報告 PDF：[FA_No7_41171105H.pdf](docs/FA_No7_41171105H.pdf)
+完整報告 PDF：[成果報告書.pdf](https://github.com/Dniellu/2-bit-Full-Adder-Layout-Design/blob/main/klayout-2bit-full-adder/klayout-2bit-full-adder%20%E6%88%90%E6%9E%9C%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf)
 
 ## 成果展示
 | 項目 | 圖片 |
